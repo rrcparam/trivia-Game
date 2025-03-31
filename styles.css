@@ -80,7 +80,7 @@ input[type="radio"] {
 
 #username {
 	padding: 0.625rem;
-	border: 1px solid #ddd;
+	border: 1px solid #141212;
 	border-radius: 0.3125rem;
 	margin-bottom: 0.9375rem;
 }
@@ -99,7 +99,7 @@ button {
 }
 
 #submit-game:hover {
-	background-color: #3700b3;
+	background-color: #5a14fc;
 }
 
 #new-player {
